@@ -15,6 +15,7 @@ movida para a coluna "Concluído" no board.
 - [ ] A funcionalidade foi implementada conforme a história de usuário
 - [ ] Todos os critérios de aceite da issue foram atendidos
 - [ ] Não há erros ou warnings no console
+- [ ] Commits e branches seguindo o padrão Conventional Commits e Git Flow respectivamente
 
 ### Qualidade
 - [ ] A funcionalidade foi testada manualmente pelo desenvolvedor
